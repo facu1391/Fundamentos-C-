@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\bin\Debug\net6.0\Extructuras.exe
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\bin\Debug\net6.0\Extructuras.deps.json
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\bin\Debug\net6.0\Extructuras.runtimeconfig.json
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\bin\Debug\net6.0\Extructuras.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\bin\Debug\net6.0\Extructuras.pdb
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\obj\Debug\net6.0\Extructuras.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\obj\Debug\net6.0\Extructuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\obj\Debug\net6.0\Extructuras.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\obj\Debug\net6.0\Extructuras.AssemblyInfo.cs
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\obj\Debug\net6.0\Extructuras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\obj\Debug\net6.0\Extructuras.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\obj\Debug\net6.0\refint\Extructuras.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\obj\Debug\net6.0\Extructuras.pdb
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\obj\Debug\net6.0\Extructuras.genruntimeconfig.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extructuras\obj\Debug\net6.0\ref\Extructuras.dll

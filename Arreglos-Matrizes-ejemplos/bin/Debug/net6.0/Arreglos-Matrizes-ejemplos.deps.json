@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Arreglos-Matrizes-ejemplos/1.0.0": {
+        "runtime": {
+          "Arreglos-Matrizes-ejemplos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Arreglos-Matrizes-ejemplos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

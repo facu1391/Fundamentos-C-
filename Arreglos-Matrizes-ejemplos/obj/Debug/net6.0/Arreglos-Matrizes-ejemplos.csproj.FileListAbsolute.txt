@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\bin\Debug\net6.0\Arreglos-Matrizes-ejemplos.exe
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\bin\Debug\net6.0\Arreglos-Matrizes-ejemplos.deps.json
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\bin\Debug\net6.0\Arreglos-Matrizes-ejemplos.runtimeconfig.json
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\bin\Debug\net6.0\Arreglos-Matrizes-ejemplos.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\bin\Debug\net6.0\Arreglos-Matrizes-ejemplos.pdb
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\obj\Debug\net6.0\Arreglos-Matrizes-ejemplos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\obj\Debug\net6.0\Arreglos-Matrizes-ejemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\obj\Debug\net6.0\Arreglos-Matrizes-ejemplos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\obj\Debug\net6.0\Arreglos-Matrizes-ejemplos.AssemblyInfo.cs
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\obj\Debug\net6.0\Arreglos-Matrizes-ejemplos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\obj\Debug\net6.0\Arreglos-Matrizes-ejemplos.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\obj\Debug\net6.0\refint\Arreglos-Matrizes-ejemplos.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\obj\Debug\net6.0\Arreglos-Matrizes-ejemplos.pdb
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\obj\Debug\net6.0\Arreglos-Matrizes-ejemplos.genruntimeconfig.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Arreglos-Matrizes-ejemplos\obj\Debug\net6.0\ref\Arreglos-Matrizes-ejemplos.dll

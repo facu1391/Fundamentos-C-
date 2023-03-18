@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\bin\Debug\net6.0\Extrura de bucle.exe
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\bin\Debug\net6.0\Extrura de bucle.deps.json
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\bin\Debug\net6.0\Extrura de bucle.runtimeconfig.json
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\bin\Debug\net6.0\Extrura de bucle.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\bin\Debug\net6.0\Extrura de bucle.pdb
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\obj\Debug\net6.0\Extrura de bucle.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\obj\Debug\net6.0\Extrura de bucle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\obj\Debug\net6.0\Extrura de bucle.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\obj\Debug\net6.0\Extrura de bucle.AssemblyInfo.cs
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\obj\Debug\net6.0\Extrura de bucle.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\obj\Debug\net6.0\Extrura de bucle.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\obj\Debug\net6.0\refint\Extrura de bucle.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\obj\Debug\net6.0\Extrura de bucle.pdb
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\obj\Debug\net6.0\Extrura de bucle.genruntimeconfig.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Extrura de bucle\obj\Debug\net6.0\ref\Extrura de bucle.dll

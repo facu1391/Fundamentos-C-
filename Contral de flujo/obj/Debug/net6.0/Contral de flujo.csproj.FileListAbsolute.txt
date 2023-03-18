@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\obj\Debug\net6.0\Contral de flujo.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\obj\Debug\net6.0\Contral de flujo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\obj\Debug\net6.0\Contral de flujo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\obj\Debug\net6.0\Contral de flujo.AssemblyInfo.cs
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\obj\Debug\net6.0\Contral de flujo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\bin\Debug\net6.0\Contral de flujo.exe
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\bin\Debug\net6.0\Contral de flujo.deps.json
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\bin\Debug\net6.0\Contral de flujo.runtimeconfig.json
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\bin\Debug\net6.0\Contral de flujo.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\bin\Debug\net6.0\Contral de flujo.pdb
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\obj\Debug\net6.0\Contral de flujo.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\obj\Debug\net6.0\refint\Contral de flujo.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\obj\Debug\net6.0\Contral de flujo.pdb
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\obj\Debug\net6.0\Contral de flujo.genruntimeconfig.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\Contral de flujo\obj\Debug\net6.0\ref\Contral de flujo.dll

@@ -1,0 +1,17 @@
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.exe
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.deps.json
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.runtimeconfig.json
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\bin\Debug\net6.0-windows\InterfazGrafica.pdb
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.Form1.resources
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.AssemblyInfo.cs
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\refint\InterfazGrafica.dll
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.pdb
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\InterfazGrafica.genruntimeconfig.cache
+C:\Users\Usuario\Documents\.NET C#\Fundamentos\InterfazGrafica\obj\Debug\net6.0-windows\ref\InterfazGrafica.dll
